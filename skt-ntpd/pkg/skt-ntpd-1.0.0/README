@@ -1,0 +1,9 @@
+ntpd
+
+This is the ntpd module. It mandates a simple ntp configuration and has been 
+used to configure ntpd on RHEL6, Debian Wheezy and Solaris 11. 
+
+License
+-------
+Apache 2.0
+

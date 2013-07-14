@@ -1,0 +1,27 @@
+<% if @is_virtual == "true" -%>
+# Keep ntpd from panicking in the event of a large clock skew
+# when a VM guest is suspended and resumed.
+tinker panic 0
+
+<% end -%>
+driftfile /var/lib/ntp/ntp.drift
+
+# Enable this if you want statistics to be logged.
+#statsdir /var/log/ntpstats/
+
+statistics loopstats peerstats clockstats
+filegen loopstats file loopstats type day enable
+filegen peerstats file peerstats type day enable
+filegen clockstats file clockstats type day enable
+
+<% ntpservers.each do |server| -%>
+server <%= server %>
+<% end -%>
+
+# Restrict connections to service.
+restrict default kod nomodify notrap nopeer noquery
+restrict -6 default kod nomodify notrap nopeer noquery
+restrict 127.0.0.1
+restrict -6 ::1
+
+

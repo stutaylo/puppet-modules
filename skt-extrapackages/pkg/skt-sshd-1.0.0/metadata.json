@@ -1,0 +1,31 @@
+{
+  "project_page": "UNKNOWN",
+  "checksums": {
+    "Modulefile": "977cebbfbb257f47fd3853b70977e2e7",
+    "spec/spec_helper.rb": "a55d1e6483344f8ec6963fcb2c220372",
+    "README": "0652099390a2a67be8f37686a7cde378",
+    "manifests/config.pp": "c67f726d921fb1ab2b14651a115b1880",
+    "tests/config.pp": "2ab7ad7ba653a2844a32633ce6be3256",
+    "tests/install.pp": "362f78813667d4b70787769972cd1fe7",
+    "tests/params.pp": "5e5468157ff7b8431ffee3926d2979ef",
+    "manifests/params.pp": "31238852dd7e3df96f40af31f9274181",
+    "manifests/init.pp": "6ea492240c102659b060b80e7d0f94fc",
+    "tests/init.pp": "75b63bcaa84e7fc253a3c9a93a71f2ab",
+    "manifests/service.pp": "732568805eb817db11de5e7dabbb21fa",
+    "tests/service.pp": "7201347f1511a685fd83a1406e95706c",
+    "manifests/install.pp": "e460e4aaa28a6cca2afa2f63eac515fa"
+  },
+  "source": "UNKNOWN",
+  "license": "Apache License, Version 2.0",
+  "dependencies": [
+
+  ],
+  "types": [
+
+  ],
+  "summary": "Simple Puppet Module for sshd",
+  "author": "skt",
+  "name": "skt-sshd",
+  "description": "Simple sshd configuration",
+  "version": "1.0.0"
+}

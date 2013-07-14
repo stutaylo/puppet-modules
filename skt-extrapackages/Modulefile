@@ -1,0 +1,9 @@
+name    'skt-extrapackages'
+version '1.0.0'
+author 'skt'
+license 'Apache License, Version 2.0'
+summary 'Simple Puppet Module for adding essential extrapackages'
+description 'Install extra packages configuration'
+
+## Add dependencies, if any:
+# dependency 'username/name', '>= 1.2.0'

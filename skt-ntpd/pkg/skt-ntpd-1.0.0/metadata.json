@@ -1,0 +1,32 @@
+{
+  "project_page": "UNKNOWN",
+  "checksums": {
+    "templates/ntpd.erb": "e3d61448625de9815109beac3d7c36e5",
+    "tests/install.pp": "6b6c99011cb0c63753ed9ebaf7ce9137",
+    "tests/params.pp": "5683fcc8f47b0176c27df9f3b60f4241",
+    "spec/spec_helper.rb": "a55d1e6483344f8ec6963fcb2c220372",
+    "manifests/params.pp": "652107daa0787447d39e763eea43fa1f",
+    "Modulefile": "86302b392eb48fc48f04c80e9ff4b6a4",
+    "tests/init.pp": "274c1e16574592a05507a405f9783fb7",
+    "manifests/service.pp": "9a5c615d5dc0e81b41148cb359e038f0",
+    "manifests/config.pp": "26c43a85b650e70c37f021bcb7199d7c",
+    "README": "da72efc99f3970e396d80978c1dbfd30",
+    "tests/config.pp": "285567f47feacfa30b2518c9c71bf14f",
+    "tests/service.pp": "4c4f3e62afe5b0bae546066ba66bb97f",
+    "manifests/install.pp": "b1af079953623f9fd433559cdf5db6f4",
+    "manifests/init.pp": "351182a2d6c00abee68c576999c1ecbd"
+  },
+  "source": "UNKNOWN",
+  "license": "Apache License, Version 2.0",
+  "dependencies": [
+
+  ],
+  "types": [
+
+  ],
+  "summary": "Simple Puppet Module for ntpd",
+  "author": "skt",
+  "name": "skt-ntpd",
+  "description": "Simple ntpd configuration",
+  "version": "1.0.0"
+}

@@ -1,0 +1,9 @@
+extrapackages
+
+This is the extrapackages module. It installs additional software 
+we deem to be useful by default.
+
+License
+-------
+Apache 2.0
+

@@ -1,0 +1,9 @@
+sshd
+
+This is the sshd module. It mandates a simple SSH configuration and has been 
+used to configure OpenSSH on RHEL6, Debian Wheezy and Solaris 11. 
+
+License
+-------
+Apache 2.0
+

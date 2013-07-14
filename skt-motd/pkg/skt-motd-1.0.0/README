@@ -1,0 +1,9 @@
+motd
+
+This is the motd module. It Creates and motd on Debian, 
+Redhat and Solaris.
+
+License
+-------
+Apache 2.0
+

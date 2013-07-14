@@ -1,0 +1,9 @@
+cores
+
+This is the cores module. It configures coredumps on RHEL6, 
+Debian Wheezy and Solaris 11
+
+License
+-------
+Apache 2.0
+

@@ -1,0 +1,28 @@
+{
+  "project_page": "UNKNOWN",
+  "checksums": {
+    "Modulefile": "53d64375b4dd35ebf85f2049a3d47da7",
+    "manifests/install.pp": "407e9c839f9fe115cc9051a87c762fd0",
+    "manifests/params.pp": "0bb43282ebb500dd059a96ffb2f7f182",
+    "tests/install.pp": "4def945aad589f7f42f74f59edddf035",
+    "tests/params.pp": "b9a04a5171c75cefcccf0683cc0485a4",
+    "tests/init.pp": "5086992bfbe4109aef08a6dc91736250",
+    "README": "68dc484918fa5cf84edd0cdb492b2894",
+    "spec/spec_helper.rb": "a55d1e6483344f8ec6963fcb2c220372",
+    "manifests/init.pp": "c8f11260cd166ce68b2c12c43eda35c7",
+    "templates/motd.erb": "ce602bd05bfbf867d2847a839cdfdaa1"
+  },
+  "source": "UNKNOWN",
+  "license": "Apache License, Version 2.0",
+  "dependencies": [
+
+  ],
+  "types": [
+
+  ],
+  "summary": "Simple Puppet Module for motd",
+  "author": "skt",
+  "name": "skt-motd",
+  "description": "Simple motd configuration",
+  "version": "1.0.0"
+}

@@ -1,0 +1,27 @@
+{
+  "project_page": "UNKNOWN",
+  "checksums": {
+    "tests/params.pp": "262b2f0d5db02e70d9a4e9a764069a46",
+    "manifests/init.pp": "e1c9599728c6fe23e964cc38de8f46b0",
+    "tests/init.pp": "4b0766cb186d79c739260a104cf53420",
+    "spec/spec_helper.rb": "a55d1e6483344f8ec6963fcb2c220372",
+    "Modulefile": "fffdbccbbfe3bd717e52fd580b35f50e",
+    "manifests/params.pp": "ddc3fae343b6f7371a07f8f797ac7383",
+    "README": "f9f7435d8818b416665fe7ba5d2776ff",
+    "manifests/config.pp": "cbb2c5bfd74f995aacf3a975f728b108",
+    "tests/config.pp": "e8dc32384b7fb409a46012022e65be1f"
+  },
+  "source": "UNKNOWN",
+  "license": "Apache License, Version 2.0",
+  "dependencies": [
+
+  ],
+  "types": [
+
+  ],
+  "summary": "Simple Puppet Module for coredump configuration",
+  "author": "skt",
+  "name": "skt-cores",
+  "description": "Simple core dump configuration",
+  "version": "1.0.0"
+}
